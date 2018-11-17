@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
     <meta name="description" content="Create 3D models using glTF.">
     <meta name="cesium-sandcastle-labels" content="Tutorials,Showcases">
+	<link rel="icon" type="image/png" href="cesium/Apps/Sandcastle/templates/city.png>
     <title>3D Malioboro</title>
     <script type="text/javascript" src="cesium/Apps/Sandcastle/Sandcastle-header.js"></script>
 	<script type="text/javascript" src="cesium/Build/CesiumUnminified/Cesium.js"></script>
