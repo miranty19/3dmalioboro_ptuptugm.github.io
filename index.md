@@ -7,6 +7,7 @@
     <meta name="description" content="Create 3D models using glTF.">
     <meta name="cesium-sandcastle-labels" content="Tutorials,Showcases">
     <title>3D Malioboro</title>
+	<link rel="icon" type="image/png" href="cesium/Apps/Sandcastle/templates/city.png">
     <script type="text/javascript" src="cesium/Apps/Sandcastle/Sandcastle-header.js"></script>
 	<script type="text/javascript" src="cesium/Build/CesiumUnminified/Cesium.js"></script>
     <script type="text/javascript" src="cesium/ThirdParty/requirejs-2.1.20/require.js"></script>
